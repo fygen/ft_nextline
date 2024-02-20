@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   get_next_line_utils_bonus.c                        :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: muguveli <muguveli@student.42istanbul.c    +#+  +:+       +#+        */
+/*   By: ayegen <ayegen@student.42.fr>              +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2024/01/04 19:47:25 by muguveli          #+#    #+#             */
-/*   Updated: 2024/01/04 20:10:47 by muguveli         ###   ########.fr       */
+/*   Created: 2024/02/19 19:47:25 by ayegen            #+#    #+#             */
+/*   Updated: 2024/02/20 21:07:54 by ayegen           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
